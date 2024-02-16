@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">I am a second year student of computer science at Gdansk University of Technology with a passion for algorithmics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peterprospl12&label=Profile%20views&color=0e75b6&style=flat" alt="peterprospl12" /> </p>
-
 
 - 📫 How to reach me **piotr.sulewski14@gmail.com**
 
