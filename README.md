@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piotr</h1>
+<h1 align="center">About Me:</h1>
 <h3 align="center">I am a second year student of computer science at Gdansk University of Technology with a passion for algorithmics</h3>
 
 
