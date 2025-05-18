@@ -1,5 +1,5 @@
 <h1 align="center">About Me:</h1>
-<h3 align="center">I am a second year student of computer science at Gdansk University of Technology with a passion for algorithmics</h3>
+<h3 align="center">I am a third year student of computer science at Gdansk University of Technology with a passion for algorithmics</h3>
 
 
 - 📫 How to reach me **piotr.sulewski14@gmail.com**
